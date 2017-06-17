@@ -1,10 +1,10 @@
 <!-- Place this tag in your head or just before your close body tag. -->
-<script async defer src="https://buttons.github.io/buttons.js"></script>
+<!--script async defer src="https://buttons.github.io/buttons.js"></script-->
 <p align="center"><h1>Soding Online Interview Task</h1></p>
 
 <p align="center">
 <!-- Place this tag where you want the button to render. -->
-<a class="github-button" href="https://github.com/qeifar" data-size="large" data-show-count="true" aria-label="Follow @ntkme on GitHub">Follow @qeifar</a>
+<img src="https://assets-cdn.github.com/images/modules/open_graph/github-mark.png"><a class="github-button" href="https://github.com/qeifar" data-size="large" data-show-count="true" aria-label="Follow @ntkme on GitHub">Follow @qeifar</img></a>
 </p>
 
 
@@ -16,7 +16,7 @@
 						<br>
 						<b >https://www.linkedin.com/in/rafieq-roslan/</b></div>
 
-					</div><br><br>
+
 ## References
 <br>
 
