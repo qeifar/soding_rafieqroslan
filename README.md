@@ -4,7 +4,7 @@
 
 <p align="center">
 <!-- Place this tag where you want the button to render. -->
-<img src="https://assets-cdn.github.com/images/modules/open_graph/github-mark.png"><a class="github-button" href="https://github.com/qeifar" data-size="large" data-show-count="true" aria-label="Follow @ntkme on GitHub">Follow @qeifar</img></a>
+href="https://github.com/qeifar" data-size="large" data-show-count="true" aria-label="Follow @ntkme on GitHub">Follow @qeifar</a>
 </p>
 
 
